@@ -1,4 +1,5 @@
-### In this real estate analysis, there are 2 main workbooks to work with. The 1st notebook is rental_analysis.ipnyb where the dashboard will be built. Once this is completed, it will all be copied into a dashboard code to create the final layout.
+### In this real estate analysis, there are 2 main workbooks. The 1st notebook is rental_analysis.ipnyb where the 2nd notebook Dashboard.ipynb will be built. 
+Once this is completed, it will all be copied into a dashboard code to create the final layout.
 
 ### The Rental Analysis will include:
 ##### Housing Units Per Year
